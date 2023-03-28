@@ -1,0 +1,14 @@
+/// Root Styles file
+/// Here we define all the root variables we need for our project.
+/// For examples see Material Design color system: https://m2.material.io/design/color/the-color-system.html
+
+:root {
+   --color-primary-dark-blue: #0f162d;
+   --color-primary-purple: hsla(281, 100%, 67%, 0.2);
+   --color-primary-blue: hsla(233, 100%, 71%, 0.2);
+   --color-primary-turquoise: hsla(180, 100%, 58%, 0.2);
+   --color-primary-gold: hsla(57, 100%, 58%, 0.2);
+   --color-secondary-white: #fff;
+   --color-secondary-grey: #272d42;
+   --color-secondary-black: #000;
+}
